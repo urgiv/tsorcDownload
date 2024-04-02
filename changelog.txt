@@ -1,4 +1,13 @@
 CHANGELOG
+MAP 1.09
+------------------
+Added several more chests near The Hunter arena with important clues in them
+Fixed 1 lever in Machine Temple that was previously single-use
+Added a spider area to Forgotten City 
+Removed Suspicious Looking Eye from EoC chest
+Added Spectre Wings, Bone Wings, Leaf Wings, and Mothron Wings to HM dungeons
+
+
 MAP 1.08
 ------------------
 Late-game Tomb: Removed corruption, added ash 
