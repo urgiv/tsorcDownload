@@ -1,7 +1,11 @@
 CHANGELOG
+MAP 1.11
+------------------
+Fixed an early shortcut into the desert being blocked off and inaccessible in past versions due to Terraria clipping the 40 blocks at the edges of the map
+
+
 MAP 1.10
 ------------------
-
 Shortcut to Earth Fiend has been redirected
 Shrine of the Triad can now be accessed "normally" via Adamantite gate
 Added and expanded on Wyvern Mage Fortress mechanic
