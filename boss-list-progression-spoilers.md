@@ -86,10 +86,10 @@ The Wyvern Mage's Mountain Fortress - Wyvern Mage(o)
 The Frozen Ocean - The Sorrow
 Event - Hero of Lumelia(o)
 Elengad's Desert Ruins - The Hunter
+Hunter Arena or Great Pyramid - Plantera
 Shadow Temple - The Destroyer
-The Twin Peaks of Arazium - The Twins
-Temple of the Machine/Water Temple - The Machine
-Any flower location - Plantera
+Temple of the Machine/Water Temple - The Machine (Skeletron Prime revamp)
+The Twin Peaks of Arazium - The Triad (Twins revamp)
 Temple of Golem - Golem
 Sky Temple Ruins - Empress of Light (o)
 Attraidies' Sky Temple - Attraidies, the Mindflayer King

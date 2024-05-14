@@ -1,4 +1,20 @@
 CHANGELOG
+MAP 1.10
+------------------
+
+Shortcut to Earth Fiend has been redirected
+Shrine of the Triad can now be accessed "normally" via Adamantite gate
+Added and expanded on Wyvern Mage Fortress mechanic
+Expanded Queen Slime arena
+Added more Truffle Worms to chest
+Added 6 Soul of Fright scattered across 3 dungeons
+Added more visual clues to HM shortcut leading to the desert early
+Improved visual experience for Rage arena
+Added rain blocks to some areas of Catacombs for atmosphere
+Edited Farron Dart text in Catacombs of the Drowned for clarity
+Added 5 more Soul of Sight to 5 chests in HM
+
+
 MAP 1.09
 ------------------
 Added several more chests near The Hunter arena with important clues in them
