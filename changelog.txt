@@ -1,4 +1,10 @@
 CHANGELOG
+MAP 1.13
+------------------
+Fixed visual clue
+Added 1 more secret entrance to a dungeon
+
+
 MAP 1.12
 ------------------
 Added progression-option enhancing tweaks and secrets to several areas
