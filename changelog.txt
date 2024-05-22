@@ -1,4 +1,22 @@
 CHANGELOG
+MAP 1.12
+------------------
+Added progression-option enhancing tweaks and secrets to several areas
+Added wooden yoyo to starting village
+Revamped progression option significantly in Corruption Temple
+Added a gate and a lever in the Earth Temple to steer more people to the sign about breaking walls
+Added and removed 1 bonfire near Corruption Temple
+Added more visual landmarks to a few key areas
+Getting key info after beating the Hunter will hopefully be more tempting to read
+Added new spider biome area
+Added yoyo bag, white string
+Replaced Flask of Cursed Flames from early chest w flask of fire
+Removed switch and left plate for Aaron's basement
+Removed more of accidental graveyard biome in earth temple
+Made some switches on cave portals easier to spot
+Made discovering wizard's home slightly more intuitive
+
+
 MAP 1.11
 ------------------
 Fixed an early shortcut into the desert being blocked off and inaccessible in past versions due to Terraria clipping the 40 blocks at the edges of the map
