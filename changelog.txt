@@ -1,4 +1,12 @@
 CHANGELOG
+MAP 1.14
+------------------
+Made new HM secret path slightly harder to discover and more challenging (also added Mythril Gate to block off early access to one key area)
+Removed some thin ice from Earth Temple and made a path 1 way
+Made opening a secret path barrier easier to spot
+Remove an unnecessary gate from Earth Temple
+
+
 MAP 1.13
 ------------------
 Fixed visual clue
