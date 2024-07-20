@@ -1,4 +1,25 @@
 CHANGELOG
+MAP 1.16
+------------------
+Made several pressure plate-based traps  more forgiving
+Made a Medusa trap more forgiving but added a new twist
+Made the Medusa trap room in the Triad Temple more fair and less frustrating with careful observation
+Improved Volcano Temple challenges a bit
+Changed some shortcut pressure plates to switches
+Added more visual clues for secrets (like the Oolicile forest and 3 Gate Puzzle etc)
+Made finding a couple uber secrets a little harder to spot
+Added a new statue trap in the desert
+Changed some statues in the Shadow Temple
+Improved clue for early/hidden Shadow Temple entrance
+Added more platinum coins to shadow chests
+Made main King Slime fight more challenging
+Added bee arena earlier in progression
+Fixed blocks in ancient demon rooms
+Added visual clues to Golem Temple
+Added Spinal Tap, bone and cobweb to Forgotten City
+Added Endless Musket Pouch, Molten Quiver, Stalker's Quiver, Endless Quiver and another Magic Quiver
+
+
 MAP 1.15
 ------------------
 Fixed some broken lanterns in the mountains by village
