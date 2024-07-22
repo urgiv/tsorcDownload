@@ -1,4 +1,11 @@
 CHANGELOG
+MAP 1.17
+------------------
+Removed a secret shortcut that created a confusing 1st experience and skipped a key progression upgrade
+Changed a bee arena to a spider room and changed the loot
+Added 1 more Feral Claws later in progression
+
+
 MAP 1.16
 ------------------
 Made several pressure plate-based traps  more forgiving
