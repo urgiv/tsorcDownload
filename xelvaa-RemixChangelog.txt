@@ -1,0 +1,9 @@
+RemixMAP 1.3.3
+------------------
+Added the Autumnal Skies, a small area above the spawn with the King Slime summon, accessible early
+Reworked Tropics terrain and added more loots to make this place more interesting
+Reworked Oolacile Forest and make it easier to access
+Eternal Reef and Deep Jungle require a large emerald to access, found in a small location in the Tropics
+Expansion of Fire Temple and Wyvern Mage's Fortress
+Reworked and extended Wyvern Mage's Prison
+Improvements and changes everywhere on the map
