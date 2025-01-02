@@ -1,5 +1,16 @@
 CHANGELOG
 
+RemixMAP 1.4 
+------------------
+Official implementation update!
+Map directly implemented in the mod, with the map added to the world choice 
+Added unique events!
+Major changes everywhere in the map
+Notable changes in the Wyvern's Mage Prison
+Added a new location at the top West of the map, where you can fight the Lunatic Cultist, and after, Moon Lord
+A lot of fixes
+
+
 RemixMAP 1.3.3
 ------------------
 Added the Autumnal Skies, a small area above the spawn with the King Slime summon, accessible early
